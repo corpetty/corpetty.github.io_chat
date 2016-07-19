@@ -1,0 +1,26 @@
+---
+title:  "Teaching Experience"
+subtitle: "Get Learnt!"
+author: "Corey Petty"
+avatar: "img/authors/Corey_CoinTelegraph_profile.jpg"
+image: "img/books.jpg"
+date:   2016-07-17 12:12:12
+---
+
+## Intituto Tecnológico de Aeronáutica
+
+##### São José dos Campos, Brazil
+* *Graduate Lecturer:*<br>
+    Lead a graduate course (FQ-292: Quantum Molecular Dynamics) outlining the theory and 
+    application of modern quantum molecular dynamics techniques.
+
+## Texas Tech University
+
+##### Lubbock, TX 
+* *__ScalIT__ Training Course:*<br>
+    Created and lead a course for training scientists to use **_ScalIT_**, a massively parallel
+    exact quantum dynamics software suite.
+* *Summer Research Acadamy Mentor:*<br>
+    Mentored high school students enrolled in the Summer Research Academy in Theoretical and Computational Chemistry
+* *Discussion Section Lecturer:*<br>
+    Lectured the discussion section for the physical chemistry undergraduate course.

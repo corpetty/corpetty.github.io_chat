@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Modern Blog</title>
+        <description>Modern-Blog A Elegant template for Jekyll</description>
+        <link>/</link>
+        <atom:link href="/feed.xml" rel="self"
+        type="application/rss+xml"/>
+        <pubDate>Tue, 19 Jul 2016 19:49:25 -0300</pubDate>
+        <lastBuildDate>Tue, 19 Jul 2016 19:49:25 -0300</lastBuildDate>
+        <generator>Jekyll v3.1.6</generator>
+        
+        <item>
+            <title>Teaching Experience</title>
+            <description>&lt;h2 id=&quot;intituto-tecnolgico-de-aeronutica&quot;&gt;Intituto Tecnológico de Aeronáutica&lt;/h2&gt;
+
+&lt;h5 id=&quot;sao-jose-dos-campos-brazil&quot;&gt;São José dos Campos, Brazil&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;Graduate Lecturer:&lt;/em&gt;&lt;br /&gt;
+  Lead a graduate course (FQ-292: Quantum Molecular Dynamics) outlining the theory and 
+  application of modern quantum molecular dynamics techniques.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;texas-tech-university&quot;&gt;Texas Tech University&lt;/h2&gt;
+
+&lt;h5 id=&quot;lubbock-tx&quot;&gt;Lubbock, TX&lt;/h5&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;em&gt;&lt;strong&gt;ScalIT&lt;/strong&gt; Training Course:&lt;/em&gt;&lt;br /&gt;
+  Created and lead a course for training scientists to use &lt;strong&gt;&lt;em&gt;ScalIT&lt;/em&gt;&lt;/strong&gt;, a massively parallel
+  exact quantum dynamics software suite.&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Summer Research Acadamy Mentor:&lt;/em&gt;&lt;br /&gt;
+  Mentored high school students enrolled in the Summer Research Academy in Theoretical and Computational Chemistry&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Discussion Section Lecturer:&lt;/em&gt;&lt;br /&gt;
+  Lectured the discussion section for the physical chemistry undergraduate course.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Sun, 17 Jul 2016 09:12:12 -0300</pubDate>
+            <link>#/2016/07/17/teaching.html</link>
+            <guid isPermaLink="true">#/2016/07/17/teaching.html</guid>
+            
+            
+        </item>
+        
+        <item>
+            <title>Academic Acomplishments</title>
+            <description>&lt;h2 id=&quot;peer-reviewed-articles&quot;&gt;Peer Reviewed Articles&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;C. Petty and B. Poirier. Comparison of J–Shifting Models for Rovibrational Spectra as Applied to the HO2 Molecule. Chemical Physics Letters. 605–606, 16–21, (2014). Editor’s Choice.&lt;/li&gt;
+  &lt;li&gt;C. Petty and B. Poirier. Using ScalIT for Performing Accurate Rovibrational Spectroscopy Calculations for Triatomic Molecules: A practical guide. Applied Mathematics. Accepted (2013), awaiting publication.&lt;/li&gt;
+  &lt;li&gt;C. Petty, W. Chen, and B. Poirier. Quantum Dynamical Calculation of Bound Rovibrational States of HO2 up to Largest Possible Total Angular Momentum, J ≤ 130. Journal of Physical Chemistry A. 117, 7280–7297, (2013)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;scientific-conference-posters&quot;&gt;Scientific Conference Posters&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Corey Petty, Rene Spada, Bill Poirier, and Francisco Machado. Highly Accurate Bound Rovibrational Eigen-energies of Ozone Using the ScalIT Software Suite on Artificial Neural Networks. Austin Symposium on Molecular Structure and Dynamics at Dallas. Dallas, TX. Mar 5–7, 2016&lt;/li&gt;
+  &lt;li&gt;Corey Petty, Rene Spada, Bill Poirier, and Francisco Machado. Highly Accurate Bound Rovibrational Eigen-energies of Ozone Using the ScalIT Software Suite on Artificial Neural Networks. Simpósio Brasileiro de Química Teórica. PirenoÌA ̨polis, GO. Nov 22–25, 2015.&lt;/li&gt;
+  &lt;li&gt;Corey Petty, Benhui Yang, Drew Brandon, Wenwu Chen, Alex Flores, and Bill Poirier. Us- ing ScalIT to Compute Bound Rovibrational Spectra for Small Molecular Systems. South- west Regional Meeting of the American Chemical Society. Waco, TX. November 16–19, 2013.&lt;/li&gt;
+  &lt;li&gt;Corey Petty, Benhui Yang, Drew Brandon, Wenwu Chen, Alex Flores, and Bill Poirier. Us- ing ScalIT to Compute Bound Rovibrational Spectra for Small Molecular Systems. South- west Theoretical Chemistry Conference. College Station. Oct 26–28, 2012.&lt;/li&gt;
+  &lt;li&gt;Corey Petty, Benhui Yang, Drew Brandon, Wenwu Chen, Alex Flores, and Bill Poirier. Us- ing ScalIT to Compute Bound Rovibrational Spectra for Small Molecular Systems. Quan- tum Atomic and Molecular Tunneling in Solids. Santa Fe, NM. June 10–14, 2012.&lt;/li&gt;
+  &lt;li&gt;Corey Petty, Benhui Yang, Drew Brandon, Wenwu Chen, Alex Flores, and Bill Poirier. Us- ing ScalIT to Compute Bound Rovibrational Spectra for Small Molecular Systems. South- west Theoretical Chemistry Conference. Lubbock, TX. Oct 13–16, 2011.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+            <pubDate>Mon, 20 Apr 2015 09:12:12 -0300</pubDate>
+            <link>#/2015/04/20/articles.html</link>
+            <guid isPermaLink="true">#/2015/04/20/articles.html</guid>
+            
+            
+        </item>
+        
+    </channel>
+</rss>
