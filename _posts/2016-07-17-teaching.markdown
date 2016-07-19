@@ -3,7 +3,7 @@ title:  "Teaching Experience"
 subtitle: "Get Learnt!"
 author: "Corey Petty"
 avatar: "img/authors/Corey_CoinTelegraph_profile.jpg"
-image: "img/books.jpg"
+image: "img/maths.jpg"
 date:   2016-07-17 12:12:12
 ---
 
